@@ -37,6 +37,6 @@ Route::middleware(['Islogin'])->group(function () {
             Route::patch('/medicine/edit/{id}', [MedicineController::class, 'update'])->name('update');
         });
     
+    });
     Route::get('/pembelian', [OrderController::class, 'index'])->name('pembelian');
     });
-});
