@@ -1,0 +1,7 @@
+Nama Pengguna  : User 
+Email          : apotek_user@gmail.com
+Kata Sandi     : Useapo
+
+Nama Pengguna  : Administrator 
+Email          : apotek_admin@gmail.com
+Kata Sandi     : Admapo
